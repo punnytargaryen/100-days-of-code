@@ -20,3 +20,13 @@
 
 **Link to work:** [Auto-tag Images of Galas](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/machine-learning/auto-tag-images-of-the-gala-9e47fb31/)
 
+### Day 3: March 05, 2020
+
+
+**Today's Progress**: Finally succeeded in creating the submission csv.
+
+**Thoughts:** Feels great to finally learn a bit of Pandas and create the submissions file. But hackerearth is looking to be a pretty bad platform to work on to be honest.
+
+**Link to work:** [Auto-tag Images of Galas](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/machine-learning/auto-tag-images-of-the-gala-9e47fb31/)
+
+
