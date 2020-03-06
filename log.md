@@ -30,3 +30,12 @@
 **Link to work:** [Auto-tag Images of Galas](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/machine-learning/auto-tag-images-of-the-gala-9e47fb31/)
 
 
+### Day 4: March 06, 2020
+
+
+**Today's Progress**: Tried to understand the google images download script in order to create my own dataset.
+
+**Thoughts:** There's still a lot I have to learn about scripts and other important things.
+
+**Link to work:** [Creating your own Image Dataset](https://forums.fast.ai/t/tips-for-building-large-image-datasets/26688)
+
