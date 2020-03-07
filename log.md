@@ -39,3 +39,14 @@
 
 **Link to work:** [Creating your own Image Dataset](https://forums.fast.ai/t/tips-for-building-large-image-datasets/26688)
 
+
+### Day 5: March 07, 2020
+
+
+**Today's Progress**: Created an Image classifier in about 30 minutes, didn't have the time to deploy it.
+
+**Thoughts:** I want to understand how I deploy my webapp, so I will be taking my time with it.
+
+**Link to work:** [ASL Alphabets](https://www.kaggle.com/grassknoted/asl-alphabet)
+
+
