@@ -49,4 +49,14 @@
 
 **Link to work:** [ASL Alphabets](https://www.kaggle.com/grassknoted/asl-alphabet)
 
+### Day 6: March 08, 2020
+
+
+**Today's Progress**: I have just spent upward of 3 hours trying to install docker in my Windows 10 Home.
+
+**Thoughts:** I AM FRUSTRATED AF.
+
+**Link to work:** No link today.
+
+
 
