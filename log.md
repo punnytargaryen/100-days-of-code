@@ -59,4 +59,13 @@
 **Link to work:** No link today.
 
 
+### Day 7: March 09, 2020
+
+
+**Today's Progress**: I have failed again to intitialize the docker image in my VM.
+
+**Thoughts:** I am really close to giving up.
+
+**Link to work:** No link today.
+
 
