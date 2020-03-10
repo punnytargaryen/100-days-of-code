@@ -69,3 +69,15 @@
 **Link to work:** No link today.
 
 
+### Day 8: March 10, 2020
+
+
+**Today's Progress**: I have finally initialized the docker image for my webapp in my Ubuntu virtualbox.
+
+**Thoughts:** I am really glad I did not give up.
+
+**Link to work:** No link today.
+
+
+
+
