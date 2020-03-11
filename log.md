@@ -80,4 +80,14 @@
 
 
 
+### Day 9: March 11, 2020
+
+
+**Today's Progress**: I cheated a bit today and was didn't exactly code.
+
+**Thoughts:** Sometimes you just have to show up.
+
+**Link to work:** [Lesson 2](https://course.fast.ai/videos/?lesson=2)
+
+
 
