@@ -90,4 +90,27 @@
 **Link to work:** [Lesson 2](https://course.fast.ai/videos/?lesson=2)
 
 
+### Day 10: March 13, 2020
+
+
+**Today's Progress**: Began trying to deploy Web-App on Heroku.
+
+**Thoughts:** Debugging is hard as hell.
+
+**Link to work:** [ASL Alphabet Classifier](https://github.com/punnytargaryen/ASLIdentifier)
+
+
+### Day 11: March 14, 2020
+
+
+**Today's Progress**: Succeeded in pushing Docker image to Heroku and deploying web-app.
+
+**Thoughts:** It feels good to finally do something.
+
+**Link to work:** [ASL Alphabet Classifier](https://aslalphabet-img-classifier.herokuapp.com)
+
+
+
+
+
 
