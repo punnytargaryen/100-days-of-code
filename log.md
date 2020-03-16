@@ -111,6 +111,23 @@
 
 
 
+### Day 12: March 15, 2020
 
+
+**Today's Progress**: Learning about Stochastic Gradient Descent Again.
+
+**Thoughts:** I feel slightly drained and don't wanna code.
+
+**Link to work:** [Fastai Lesson 2](https://course.fast.ai/videos/?lesson=2)
+
+
+### Day 13: March 16, 2020
+
+
+**Today's Progress**: Learning about the amazing Datablock API in the fastai library, played around with SGD.
+
+**Thoughts:** I feel slightly drained and don't wanna code.
+
+**Link to work:** [Fastai Lesson 3](https://course.fast.ai/videos/?lesson=3)
 
 
