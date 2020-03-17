@@ -131,3 +131,11 @@
 **Link to work:** [Fastai Lesson 3](https://course.fast.ai/videos/?lesson=3)
 
 
+### Day 14: March 17, 2020
+
+
+**Today's Progress**: Trying to solve a kaggle competition.
+
+**Thoughts:** Sometimes these problems feel insurmountable.
+
+**Link to work:** [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview)
