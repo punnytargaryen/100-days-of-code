@@ -141,7 +141,7 @@
 **Link to work:** [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview)
 
 
-### Day 14: March 17, 2020
+### Day 15: March 18, 2020
 
 
 **Today's Progress**: Left the Kaggle problem as I felt overwhelmed. 
