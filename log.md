@@ -139,3 +139,15 @@
 **Thoughts:** Sometimes these problems feel insurmountable.
 
 **Link to work:** [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview)
+
+
+### Day 14: March 17, 2020
+
+
+**Today's Progress**: Left the Kaggle problem as I felt overwhelmed. 
+
+**Thoughts:** I have to find a way to quantitatively measure my progress.
+
+**Link to work:** [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview)
+
+**Goal for Tomorrow:** Run the Camvid Notebook, learn how it works. Try and do another segmentation problem.
