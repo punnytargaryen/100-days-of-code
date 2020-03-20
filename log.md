@@ -164,3 +164,18 @@
 
 **Goal for Tomorrow:** Try and do another segmentation problem.
 
+
+
+### Day 17: March 20, 2020
+
+
+**Today's Progress**:Basically looked at someone else's Kaggle Kernel and implemented a segmentation problem.
+
+**Thoughts:** It feels very scary to try and learn DL sometimes, but I want to be a practitioner.
+
+**Link to work:** [Ultrasound Nerve Segmentation](https://www.kaggle.com/tanlikesmath/ultrasound-nerve-segmentation-with-fastai)
+
+**Goal for Tomorrow:** Finish lesson 3, implement the notebooks.
+
+
+
