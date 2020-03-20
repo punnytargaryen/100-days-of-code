@@ -151,3 +151,16 @@
 **Link to work:** [Fastai Lesson 3](https://course.fast.ai/videos/?lesson=3)
 
 **Goal for Tomorrow:** Run the Camvid Notebook, learn how it works. Try and do another segmentation problem.
+
+
+### Day 16: March 19, 2020
+
+
+**Today's Progress**: Ran the camvid notebook, also spent 3 hours playing with an RNN to write my assignment. 
+
+**Thoughts:** Just using someone elses work was this much fun, Imagine making one myself.
+
+**Link to work:** [Handwriting generator](https://github.com/sjvasquez/handwriting-synthesis)
+
+**Goal for Tomorrow:** Try and do another segmentation problem.
+
