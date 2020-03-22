@@ -189,3 +189,15 @@
 **Link to work:** [Fastai Lesson 3](https://course.fast.ai/videos/?lesson=3)
 
 **Goal for Tomorrow:** Implement the notebooks.
+
+
+
+### Day 19: March 21, 2020
+
+
+**Today's Progress**:Research on Reinforcement Learning methods for Traffic Signal Control.
+
+**Thoughts:** The Gulf between idea and solution is huge.
+
+
+
