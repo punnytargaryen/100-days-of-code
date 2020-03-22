@@ -179,3 +179,13 @@
 
 
 
+### Day 18: March 21, 2020
+
+
+**Today's Progress**:Nothing much to be honest.
+
+**Thoughts:** It feels very scary to try and learn anything at all.
+
+**Link to work:** [Fastai Lesson 3](https://course.fast.ai/videos/?lesson=3)
+
+**Goal for Tomorrow:** Implement the notebooks.
