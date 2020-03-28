@@ -201,3 +201,15 @@
 
 
 
+### Day 20: March 27, 2020
+
+
+**Today's Progress**:Made an News Category classifier using the ag news dataset.
+
+**Thoughts:** Do not want to give up on this.
+
+**Link to work:** [Fastai Lesson 4](https://course.fast.ai/videos/?lesson=4)
+
+**Goal for Tomorrow:** Complete lesson 4 lecture.
+
+
