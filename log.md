@@ -213,3 +213,25 @@
 **Goal for Tomorrow:** Complete lesson 4 lecture.
 
 
+### Day 21: March 28, 2020
+
+
+**Today's Progress**: Finished the basic overview of simple functionalities in the fastai course.
+
+**Thoughts:** I need to identify my weaknesses and work on them.
+
+**Link to work:** [Fastai Lesson 4](https://course.fast.ai/videos/?lesson=4)
+
+**Goal for Tomorrow:** Check out how to jump to function definitions.
+
+
+### Day 22: March 29, 2020
+
+
+**Today's Progress**: Researched Vim and VScode.
+
+**Thoughts:** Realized that I'm very bad at using Editors.
+
+**Link to work:** [Forum Thread](https://forums.fast.ai/t/vim-tips-and-help-thread/43003)
+
+**Goal for Tomorrow:** Install tags and definition and searching.
