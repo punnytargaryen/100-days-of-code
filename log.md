@@ -235,3 +235,17 @@
 **Link to work:** [Forum Thread](https://forums.fast.ai/t/vim-tips-and-help-thread/43003)
 
 **Goal for Tomorrow:** Install tags and definition and searching.
+
+
+
+### Day 23: March 30, 2020
+
+
+**Today's Progress**: Learned vim and vs code basics. Copied Jeremy Howard's vim setup.
+ 
+**Thoughts:** Can now search for functions in the fastai source code.
+
+**Link to work:** [Forum Thread](https://forums.fast.ai/t/for-all-you-contributors-using-vim-what-is-your-vimrc-file-look-like/24439)
+
+**Goal for Tomorrow:** Begin Lesson 5, before which, learn about collab_learner.
+
