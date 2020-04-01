@@ -249,3 +249,28 @@
 
 **Goal for Tomorrow:** Begin Lesson 5, before which, learn about collab_learner.
 
+
+
+### Day 24: March 31, 2020
+
+
+**Today's Progress**: Began delving into classic collaborative filtering. Also practiced my python.
+
+**Thoughts:** There's quite a bit I'll have to come back to time to time to completely grasp.
+
+**Link to work:** [Lesson 5](https://course.fast.ai/videos/?lesson=5)
+
+**Goal for Tomorrow:** Watch the whole part about collab filtering, then do it myself.
+
+
+### Day 25: April 1, 2020
+
+
+**Today's Progress**: Learned about biases, embedding matrices and components of collaborative filtering.
+
+**Thoughts:** I need to learn how to interpret my models and data.
+
+**Link to work:** [Lesson 5](https://course.fast.ai/videos/?lesson=5)
+
+**Goal for Tomorrow:** Interpret the data in my own ways. Train a model using a current movielens dataset.
+
